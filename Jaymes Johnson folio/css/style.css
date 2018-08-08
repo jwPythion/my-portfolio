@@ -439,8 +439,7 @@ nav ul li a {
 }
 
 .port-img {
-  height: 250px;
-  width: 300px;
+  
 }
   
 
@@ -464,6 +463,12 @@ nav ul li a {
   padding-bottom: 60px;
   position: relative;
 }
+
+.blog-img {
+  height: 250px;
+  width: 350px;
+}
+
 
 #journal-blog {
   background: #fff;
