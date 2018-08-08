@@ -222,7 +222,7 @@ nav ul li a {
 }
 
 .logo img {
-  width: 100px;
+  width:50;
   height: 50px;
 }
 
@@ -437,6 +437,12 @@ nav ul li a {
   margin-bottom: 50px;
   width: 100%;
 }
+
+.port-img {
+  height: 250px;
+  width: 300px;
+}
+  
 
 .portfolio-thumbnail {
   margin-bottom: 30px;
