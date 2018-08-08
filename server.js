@@ -14,7 +14,7 @@ var PORT = 3000 || process.env.PORT;
 // routes to index, static blog page, 
 // change rounts on actual html 
 
-app.get("/", function(req, res) {
+app.get("/", function(req, res) { 
     res.render("index");
 
 });
