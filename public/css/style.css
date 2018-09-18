@@ -263,13 +263,14 @@ nav ul li a {
   color: #fff;
 }
 
-.header-content p {
+.header-content p { 
   font-size: 13px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
   color: #fff;
+  background-color: black;
   font-weight: 500;
 }
 
